@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    
+ <style>
+   img{
+    width: 200px;
+    height: 200px;
+   object-fit: cover;
+}
+body {
+    background-image: url(  images/banground.png );
+  } 
+ </style>
+</head>
+<body>
+  
+  <p>I love creat CODES!</p>
+    <img src="images/coffe.jpg" alt="A coffe mug on a table">
+   <a href="company/codes.HTML"> apss.....</a>
+   
+    <h2>HTML</h2>
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident vitae autem ducimus sapiente repellendus rerum dolore nobis! Laborum magni ducimus, ipsa qui nobis culpa, ab minus libero quam dolore aut ut fugiat voluptate dignissimos nulla, numquam sunt maiores dolores neque explicabo accusamus corrupti cupiditate! Autem et quasi tempore, iusto explicabo perferendis, obcaecati facere quod dignissimos earum quae esse incidunt ab laborum, reiciendis cupiditate asperiores impedit reprehenderit fuga atque nemo ipsam harum ex? Assumenda culpa quas recusandae voluptates optio dolores, asperiores fuga cupiditate, dignissimos hic nemo. Tenetur sit aliquam, placeat sunt, odit tempora pariatur corporis ipsam explicabo repellendus distinctio ut quae accusamus eius doloremque excepturi magnam fugiat eos nihil, alias aperiam adipisci doloribus qui? Repudiandae beatae ipsam illo nostrum eligendi provident harum libero numquam qui tempore nulla sunt molestias nobis rerum non magni, totam expedita accusantium minima repellendus et. Tempora nisi iure eligendi sit soluta sapiente ducimus et officiis id. Id ea iure iste minima, itaque delectus! Vitae, harum laudantium et aliquid inventore nam iure voluptatum dicta nulla tenetur alias recusandae repellat sit debitis fugiat minus impedit quasi perferendis natus, iusto cupiditate ea. Repellendus minima deleniti optio quisquam ea ipsa laudantium, aut laboriosam quos, dolorum fugiat cum non harum fuga sed?</p>
+    <h2>  CSS</h2>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates corrupti nobis itaque quod sequi? Omnis ut fugiat accusantium officiis aspernatur itaque quae voluptatem facere, consectetur asperiores dicta provident possimus, harum nobis dolor quaerat natus eveniet deleniti, voluptate unde. Exercitationem itaque similique illum aut hic libero voluptas sequi. Vitae perspiciatis, quas esse quisquam voluptas, minus quam iure porro dignissimos nisi unde velit sint ipsam odio illo ratione facilis commodi nostrum aspernatur omnis, aut optio veritatis quis. Necessitatibus inventore dignissimos, quidem aliquam reiciendis exercitationem est. Ullam sunt aliquam praesentium necessitatibus at natus voluptate modi perferendis, itaque autem exercitationem perspiciatis quidem iure dicta quis harum? Adipisci nam ducimus saepe voluptas repellat dignissimos tenetur veritatis ab voluptate quisquam molestias tempora itaque modi consectetur, eius, asperiores possimus quos, magni voluptates maxime in aspernatur omnis. Consequuntur, vero! Fuga voluptates repudiandae soluta pariatur adipisci voluptatum fugiat culpa libero natus! Ad dolor obcaecati facilis esse, repellat maxime distinctio labore vitae ullam odio quam eligendi reiciendis laborum repellendus nemo amet a sequi inventore saepe voluptas. Omnis sed sequi quisquam nulla esse sapiente in eos excepturi, similique reprehenderit nisi vero cum quae accusamus, laudantium ullam ex. Sed repellendus, exercitationem quo illum molestias assumenda aliquid quia reiciendis facilis aperiam nihil provident.</P>
+
+    <a href="https://google.com" target="_blank">Google</a>
+    <a href="mailto:.......">Mail to me</a>
+    
+</body>
+</html><!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    
+    
+ <style>
+   img{
+    width: 200px;
+    height: 200px;
+   object-fit: cover;
+}
+body {
+    background-image: url(  images/banground.png );
+  } 
+ </style>
+</head>
+<body>
+  
+  <p>I love creat CODES!</p>
+    <img src="images/coffe.jpg" alt="A coffe mug on a table">
+   <a href="company/codes.HTML"> apss.....</a>
+   
+    <h2>HTML</h2>
+     <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Provident vitae autem ducimus sapiente repellendus rerum dolore nobis! Laborum magni ducimus, ipsa qui nobis culpa, ab minus libero quam dolore aut ut fugiat voluptate dignissimos nulla, numquam sunt maiores dolores neque explicabo accusamus corrupti cupiditate! Autem et quasi tempore, iusto explicabo perferendis, obcaecati facere quod dignissimos earum quae esse incidunt ab laborum, reiciendis cupiditate asperiores impedit reprehenderit fuga atque nemo ipsam harum ex? Assumenda culpa quas recusandae voluptates optio dolores, asperiores fuga cupiditate, dignissimos hic nemo. Tenetur sit aliquam, placeat sunt, odit tempora pariatur corporis ipsam explicabo repellendus distinctio ut quae accusamus eius doloremque excepturi magnam fugiat eos nihil, alias aperiam adipisci doloribus qui? Repudiandae beatae ipsam illo nostrum eligendi provident harum libero numquam qui tempore nulla sunt molestias nobis rerum non magni, totam expedita accusantium minima repellendus et. Tempora nisi iure eligendi sit soluta sapiente ducimus et officiis id. Id ea iure iste minima, itaque delectus! Vitae, harum laudantium et aliquid inventore nam iure voluptatum dicta nulla tenetur alias recusandae repellat sit debitis fugiat minus impedit quasi perferendis natus, iusto cupiditate ea. Repellendus minima deleniti optio quisquam ea ipsa laudantium, aut laboriosam quos, dolorum fugiat cum non harum fuga sed?</p>
+    <h2>  CSS</h2>
+    <P>Lorem ipsum dolor sit amet consectetur adipisicing elit. Voluptates corrupti nobis itaque quod sequi? Omnis ut fugiat accusantium officiis aspernatur itaque quae voluptatem facere, consectetur asperiores dicta provident possimus, harum nobis dolor quaerat natus eveniet deleniti, voluptate unde. Exercitationem itaque similique illum aut hic libero voluptas sequi. Vitae perspiciatis, quas esse quisquam voluptas, minus quam iure porro dignissimos nisi unde velit sint ipsam odio illo ratione facilis commodi nostrum aspernatur omnis, aut optio veritatis quis. Necessitatibus inventore dignissimos, quidem aliquam reiciendis exercitationem est. Ullam sunt aliquam praesentium necessitatibus at natus voluptate modi perferendis, itaque autem exercitationem perspiciatis quidem iure dicta quis harum? Adipisci nam ducimus saepe voluptas repellat dignissimos tenetur veritatis ab voluptate quisquam molestias tempora itaque modi consectetur, eius, asperiores possimus quos, magni voluptates maxime in aspernatur omnis. Consequuntur, vero! Fuga voluptates repudiandae soluta pariatur adipisci voluptatum fugiat culpa libero natus! Ad dolor obcaecati facilis esse, repellat maxime distinctio labore vitae ullam odio quam eligendi reiciendis laborum repellendus nemo amet a sequi inventore saepe voluptas. Omnis sed sequi quisquam nulla esse sapiente in eos excepturi, similique reprehenderit nisi vero cum quae accusamus, laudantium ullam ex. Sed repellendus, exercitationem quo illum molestias assumenda aliquid quia reiciendis facilis aperiam nihil provident.</P>
+
+    <a href="https://google.com" target="_blank">Google</a>
+    <a href="mailto:.......">Mail to me</a>
+    
+</body>
+</html>
